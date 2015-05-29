@@ -1,0 +1,6 @@
+$i = 'A'; do { echo $i . '<br />'; } while ( $i++ != 'ZZZ' );
+nano aaa.php
+ls
+ls
+pwd
+

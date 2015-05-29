@@ -1,0 +1,43 @@
+.page-header {
+	margin: 20px 0 20px;
+}
+
+.page-header .logo {
+	margin-right: 5px;
+}
+
+.panel-primary {
+	border-color: #193AC6;
+}
+
+.panel-primary>.panel-heading {
+	border-color: #193AC6;
+	background-color: rgb(51, 102, 0);
+}
+
+.panel-footer {
+	background-color: #f2f1f0;
+}
+
+.btn-primary.btn-outline {
+	color: #c61931;
+	border-color: #c61931;
+}
+
+.btn-primary:hover {
+	background-color: #c61931;
+	border-color: #c61931;
+}
+
+.navbar-brand{
+    float:left;
+    height:50px;
+    padding:10px 15px;
+    font-size:12px;
+    line-height:20px
+    }
+.navbar-brand:focus,
+.navbar-brand:hover{
+    text-decoration:none
+    }
+.navbar-brand>img{display:block}@media (min-width:768px){.navbar>.container .navbar-brand,.navbar>.container-fluid .navbar-brand{margin-left:-15px}}

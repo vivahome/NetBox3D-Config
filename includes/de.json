@@ -1,0 +1,23 @@
+{
+    "Home": "WiFi Konfiguration Übersicht",
+    "OSSystem": "Betriebssystem: ",
+    "AusgewählteSprache": "Eingestellte Sprache: ",
+    "Sprache": "Deutsch",
+    "Impressum": "Diese Seite wird zur Verfügung gestellt von: <br /> Viva Home GmbH, Auf dem Beiemich 15, 53804 Much, Deutschland \n Geschäftsführerin Ute Engelstädter \nHRB 13306, Amtsgericht Siegburg <br />Der Nutzer benutzt diese Software zur Konfiguration auf eigene Gefahr und die Viva Home GmbH ist zu keiner Zeit für Schäden, die aus der Nutzung dieser Software entstehen könnten, verantwortlich.\n Alternativ kann jeder Nutzer das System auch direkt konfigurieren. Das dafür notwendige Wissen wird vorausgesetzt.",
+    "ifconfig": "Informationen werden bereitgestellt von ifconfig und iwconfig",
+    "Selectlanguage": "Bitte Sprache wählen ",
+    "FirstStep": "Erster Schritt",
+    "Welcome": "Herzlich Willkommen zur 3DNetBox, das LAN Interface für 3D Drucker",
+    "Systeminformationen": "Allgemeine Systeminformationen",
+    "Basicinfos": "Nachfolgend finden Sie einige grundlegenden Informationen über die NetBox im aktuelle Betrieb.",
+    "FreeMemory": "Freier Systemspeicher",
+    "UsedMemory": "Benutzter Systemspeicher",
+    "Update": "System Updates",
+    "Updateinfo": "Hier können Sie das System auf einen neueren Stand bringen, sofern Updates für Ihr System vorhanden sind <br> Bitte achten Sie im Systemreport nach dem Update auf etwaige Fehlermeldungen",
+    "systemupdatefunctions": "Für das Update wird auf Systemprogramme des Betriebssystems zurückgegriffen",
+    "externalip": "Externe Internet IP Adresse",
+    "freesdcard": "freier Speicherplatz SD Memorykarte",
+    "routerIP": "Router IP Nummer",
+    "localIP": "NetBox3D IP Nummern",
+    "CPUTemp": "Aktuelle CPU Temperatur"
+}

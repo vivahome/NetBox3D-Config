@@ -1,0 +1,25 @@
+{
+      "Home": "WiFi Configuration Portal",
+      "OSSystem": "Operatiing System: ",
+      "AusgewählteSprache": "Selected language: ",
+      "Sprache": "English",
+      "Impressum": "This Page/Software offered by: <br />Viva Home GmbH, Auf dem Beiemich 15, 53804 Much, Germany \n General Manager Ute Engelstädter \nHRB 13306, Amtsgericht Siegburg <br />The user of this pages/software is using this by its own. Viva Home GmbH is not responsible at any time for any problems of this pages/software. The user could configure the system by using the operating tools by its own knowledge. ",
+      "ifconfig": "Information provided by ifconfig and iwconfig",
+      "Selectlanguage": "Please select your language ",
+      "FirstStep": "First Step",
+      "Welcome": "Welcome to the 3DNetBox, the LAN Interface for 3D printer",
+      "Systeminformationen": "System Informations",
+      "Basicinfos": "Beyond you will get some basic informations about the NetBox for the actual situation.",
+      "FreeMemory": "Free Memory System",
+      "UsedMemory": "Used Memory System",
+      "Update": "System Updates",
+      "Updateinfo": "You could update your system if there are any updates availaible. <br>Please check the system protocol after the update for any errors!",
+      "systemupdatefunctions": "We will use operating functions for the update",
+      "externalip": "External Internet IP Address",
+      "freesdcard": "free space SD Memorycard",
+      "routerIP": "Router IP number",
+      "localIP": "NetBox3D IP numbers",
+      "CPUTemp": "Actual CPU temperature"
+   
+ 
+}
