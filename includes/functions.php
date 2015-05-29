@@ -611,7 +611,10 @@ $language = new language($sprache);
 $lang = $language->translate();
 
 	if( isset($_POST['update_1']) ) {
-             exec( 'sudo apt-get update', $return );
+             exec( 'cd /var/www/&&sudo /usr/bin/git pull', $return );
+             
+          //    var_dump($return);
+            
             popupwindow($return);
 		
 	} elseif( isset($_POST['update_2']) ) {
