@@ -191,7 +191,7 @@ $strUser = exec('whoami', $return);
                                         '<b>'. $lang->externalip. ': </b> '.$externalIP . '<br>'.
                                         '<b>'. $lang->routerIP . ' : </b>' . $routerIP . '<br>'.
                                         '<b>'. $lang->localIP . '</b><br><b> WIFI: </b>' . $wlanIP .'<br><b> ETH0 :</b> '.$lanIP . '<br>'.
-                                        '<b> CPU ID: </b>'.md5($CpuID).'<br>'.
+                                        '<b> CPU ID: </b>'.md5($CpuID).'   ' . $CpuID . '<br>'.
                                         '<b>'. $lang->CPUTemp . ': </b>' . round($CpuTemp/1000,1) . '	&deg C<br>'
                                         
                                         
