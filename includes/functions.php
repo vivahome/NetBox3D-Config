@@ -613,7 +613,7 @@ $lang = $language->translate();
 	if( isset($_POST['update_1']) ) {
              exec( 'cd /var/www/&&sudo /usr/bin/git pull', $return );
              
-              var_dump($return);
+               var_dump($return);
             
             popupwindow($return);
 		
